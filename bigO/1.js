@@ -19,7 +19,7 @@ console.log(`for loop method took time of: ${(t2 - t1) / 1000}seconds`);
 
 
 console.log('\n');
-// technique 2 => complexity = O()
+// technique 2 => complexity = O(1)
 
 function UptoN(s) {
     return s * (s + 1) / 2;
