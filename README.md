@@ -1,4 +1,4 @@
-# Data Structure and Algorithms in javascript.
+# Data Structure and Algorithms in javascript
 
 
 
